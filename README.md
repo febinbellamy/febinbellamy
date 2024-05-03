@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📖 I’m currently reading **The Software Engineer's Guidebook** by Gergely Orosz
-
 - 📫 How to reach me: **febinbellamy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
