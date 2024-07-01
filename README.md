@@ -1,9 +1,9 @@
 <h1 align="center">Hi! 👋 I'm Febin.</h1>
 <h3 align="center">A software engineer from New York.</h3>
 
-- 🔭 I’m currently a Lead Instructor at **All Star Code** and a Full Stack Engineering Fellow at **Formation**
+- 🔭 I’m currently a Lead Instructor at **All Star Code** and a Coding Instructor at **CodeStream Studios**
 
-- 🌱 I’m currently learning data structures, algorithms, and system design
+- 🌱 I’m currently learning data structures, algorithms, and system design at **Formation.dev** 
 
 - 📫 How to reach me: **febinbellamy@gmail.com**
 
