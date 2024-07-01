@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a Lead Instructor at **All Star Code** and a Full Stack Engineering Fellow at **Formation**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning data structures, algorithms, and system design
 
 - 📫 How to reach me: **febinbellamy@gmail.com**
 
