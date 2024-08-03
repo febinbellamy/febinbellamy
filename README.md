@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febinbellamy&" alt="febinbellamy" /></p>
 
-![small](https://github.com/febinbellamy/febinbellamy/assets/89381034/4dec01db-4e03-45f8-b692-a764680b7226)
+![small](https://github.com/user-attachments/assets/10770443-a03c-42a4-93b1-448f663b9a0a)
