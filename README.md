@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm Febin.</h1>
+<h1 align="center">Hi! I'm Febin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">A software engineer and educator from New York.</h3>
 
 - 🔭 I’m currently a Coding Instructor at **CodeStream Studios**
@@ -8,13 +8,50 @@
 - 📫 How to reach me: **febinbellamy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/febinbellamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="febinbellamy" height="30" width="40" /></a>
-</p>
+</div>
+<a href="https://www.linkedin.com/in/febinbellamy" target="_blank" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
 
+</div>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<div>
+            <img src="https://skillicons.dev/icons?i=python"
+            width="40" title="Python" />
+            <img src="https://skillicons.dev/icons?i=typescript"
+            width="40" title="TypeScript"/>
+            <img src="https://skillicons.dev/icons?i=javascript" 
+            width="40" title="JavaScript"/>
+            <img src="https://skillicons.dev/icons?i=php"
+            width="40" title="PHP"/>
+            <img src="https://skillicons.dev/icons?i=html" 
+            width="40" title="HTML"/>
+            <img src="https://skillicons.dev/icons?i=css" 
+            width="40" title="CSS"/> 
+            <img src="https://skillicons.dev/icons?i=react"
+            width="40" title="React"/>
+            <img src="https://skillicons.dev/icons?i=netlify"
+            width="40" title="Netlify"/> 
+  <br> 
+            <img src="https://skillicons.dev/icons?i=postgres"
+            width="40" title="Postgres"/>  
+            <img src="https://skillicons.dev/icons?i=bootstrap"
+            width="40"title="Bootstrap"/>
+            <img src="https://skillicons.dev/icons?i=nodejs"
+            width="40" title="Node.js"/> 
+            <img src="https://skillicons.dev/icons?i=express"
+            width="40" title="Express"/> 
+            <img src="https://skillicons.dev/icons?i=mongodb"
+            width="40" title="MongoDB"/> 
+            <img src="https://skillicons.dev/icons?i=firebase"
+            width="40" title="Firebase"/> 
+            <img src="https://skillicons.dev/icons?i=gcp"
+            width="40" title="GCP"/> 
+            <img src="https://skillicons.dev/icons?i=heroku"
+            width="40" title="Heroku"/> 
+</div>
+<br> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febinbellamy&" alt="febinbellamy" /></p>
 
