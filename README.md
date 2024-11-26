@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a Coding Instructor at **CodeStream Studios**
 
-- 🌱 I’m currently learning data structures, algorithms, and system design at **Formation.dev** 
+- 🌱 I’m an incoming Software Engineering Intern at **Clever**
 
 - 📫 How to reach me: **febinbellamy@gmail.com**
 
