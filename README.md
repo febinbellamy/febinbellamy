@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Febin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">A software engineer and educator from New York.</h3>
 
-- 🔭 I’m currently a Coding Instructor at **CodeStream Studios**
+- 🔭 I’m currently a Coding Instructor at <a href="https://www.codestreamstudios.com/" target="_blank">CodeStream Studios</a>
 
-- 🌱 I’m an incoming Software Engineering Intern at **Clever**
+- 🌱 I’m an incoming Software Engineering Intern at <a href="https://www.clever.com/" target="_blank">Clever</a>
 
 - 📫 How to reach me: **febinbellamy@gmail.com**
 
@@ -56,5 +56,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febinbellamy&" alt="febinbellamy" /></p>
 
 <a href="https://www.codewars.com/users/febinbellamy" target="_blank" title="Codewars">
-  <img src="https://github.com/user-attachments/assets/f7d8fc68-b97b-4de4-aa95-95c2a25574ef">
+  <img src="https://github.com/user-attachments/assets/00dacffa-89f0-4db6-bf06-269beb5b2f18">
 </a>
