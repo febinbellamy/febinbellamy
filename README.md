@@ -60,5 +60,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febinbellamy&" alt="febinbellamy" /></p>
 
 <a href="https://www.codewars.com/users/febinbellamy" target="_blank" title="Codewars">
-  <img src="https://github.com/user-attachments/assets/00dacffa-89f0-4db6-bf06-269beb5b2f18">
+  <img src="https://github.com/user-attachments/assets/d4f70bca-e7eb-4eb9-a053-9a7e0dc47e2b">
 </a>
