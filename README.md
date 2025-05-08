@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Coding Instructor at <a href="https://www.codestreamstudios.com/" target="_blank">CodeStream Studios</a>
 
-- 🌱 I’m an incoming Software Engineering Intern at <a href="https://www.clever.com/" target="_blank">Clever</a>
+- 🌱 I’m a Software Engineering Intern at <a href="https://www.clever.com/" target="_blank">Clever</a>
 
 - 🙏 I’m ranked in the top 0.3% of users on <a href="https://www.codewars.com/users/febinbellamy/" target="_blank">Codewars</a>
 
