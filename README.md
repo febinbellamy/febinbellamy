@@ -56,9 +56,8 @@
             width="40" title="Heroku"/> 
 </div>
 <br> 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=febinbellamy&" alt="febinbellamy" /></p>
 
 <a href="https://www.codewars.com/users/febinbellamy" target="_blank" title="Codewars">
-  <img src="https://github.com/user-attachments/assets/0706b65e-703b-4e4c-bb56-505aa42bb175">
+  <img src="https://github.com/user-attachments/assets/3c8c2c0a-564e-4cd9-adaf-8e79458dacb6">
 </a>
