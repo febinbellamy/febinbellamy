@@ -1,9 +1,7 @@
 <h1 align="center">Hi! I'm Febin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">A software engineer and educator from New York.</h3>
 
-- 🔭 I’m a Coding Instructor at <a href="https://www.codestreamstudios.com/" target="_blank">CodeStream Studios</a>
-
-- 🌱 I’m a Software Engineering Intern at <a href="https://www.clever.com/" target="_blank">Clever</a>
+- 🌱 I’m an incoming Software Engineer at <a href="https://www.clever.com/" target="_blank">Clever</a>
 
 - 🙏 I’m ranked in the top 0.2% of users on <a href="https://www.codewars.com/users/febinbellamy/" target="_blank">Codewars</a>
 
