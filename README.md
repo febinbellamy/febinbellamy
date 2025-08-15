@@ -1,5 +1,4 @@
 <h1 align="center">Hi! I'm Febin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">A software engineer and educator from New York.</h3>
 
 - 🌱 I’m an incoming Software Engineer at <a href="https://www.clever.com/" target="_blank">Clever</a>
 
